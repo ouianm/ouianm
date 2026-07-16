@@ -15,3 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<p align="center">
+  <img src="assets/ouiam-terminal.png" alt="Ouiam Terminal" width="550">
+</p>
+
