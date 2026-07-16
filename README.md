@@ -1,1 +1,1 @@
-<img src="./assets/ouiam_ascii_fireworks_pink_explosive.gif" alt="Ouiam ASCII fireworks animation" width="900">
+<img src="./assets/rainbow_firework_intro_with_info.gif" alt="Ouiam ASCII fireworks animation" width="900">
